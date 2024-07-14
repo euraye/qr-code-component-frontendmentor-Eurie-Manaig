@@ -9,7 +9,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/qr-code-component-g0YvCa7rB">
+    <a href="https://www.frontendmentor.io/solutions/qr-code-rNBiCybhSt">
       Solution
     </a>
    <span> | </span>
@@ -27,17 +27,12 @@
 
 ## About The Project
 
-<p>A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.
-The main challenge is to build out this QR code component and get it looking as close to the design as possible.
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+<p>An excellent initial project for beginners in HTML and CSS, this challenge focuses on building a static QR code component. The layout is fixed, making it suitable if you're not yet familiar with responsive design. Your goal is to replicate the design accurately, and you can use any tools or techniques you wish to practice.
+  
 <br><br>Your users should be able to:
 <br>1. View the optimal layout depending on their device's screen size
 
 <br>
-<br> <p>I do not have access to the Figma sketch so the design is not pixel perfect.</p>
-
-
-
 
 ## Built with 
 
@@ -47,14 +42,13 @@ You can use any tools you like to help you complete the challenge. So if you've 
 - Desktop-first workflow
 
 ## What I learned
-Very easy project for someone who recently stepped in the world of development! The only issue I had was the height of flex container as it looked different in Safari. So I changed approach a little bit - that's why I had many changes in this simple project.
+
+It's a straightforward project for someone who has recently learned HTML and CSS. The challenge lies in finding the right measurements for the components and adjusting the flexbox to ensure responsiveness across all screen sizes.
 
 ## Useful resources
 
-1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
-2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
+1. <a href="https://www.figma.com/">Figma</a> - to have a visualization of your project that you will create. It's easy to know the exact size of your elements.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/qr-code-component-g0YvCa7rB">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
-
+A big thank you to Colt Steele for being my teacher in web developer bootcamp 2024. I learned a lot doing each section of the course and I hope I learned more about web development. Also to the people who feedback on my <a href = "https://www.frontendmentor.io/solutions/qr-code-rNBiCybhSt"> solution</a>
