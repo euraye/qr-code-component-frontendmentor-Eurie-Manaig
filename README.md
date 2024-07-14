@@ -51,4 +51,4 @@ It's a straightforward project for someone who has recently learned HTML and CSS
 
 ## Acknowledgments
 
-A big thank you to Colt Steele for being my teacher in web developer bootcamp 2024. I learned a lot doing each section of the course and I hope I learned more about web development. Also to the people who feedback on my <a href = "https://www.frontendmentor.io/solutions/qr-code-rNBiCybhSt"> solution</a>
+A big thank you to Colt Steele for being my teacher in the Web Developer Bootcamp 2024. I learned a lot from each section of the course, and I hope to continue learning more about web development. Also, thank you to the people who provided feedback on my<a href = "https://www.frontendmentor.io/solutions/qr-code-rNBiCybhSt"> solution.</a>
